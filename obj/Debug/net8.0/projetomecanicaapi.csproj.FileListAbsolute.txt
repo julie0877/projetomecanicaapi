@@ -1,0 +1,7 @@
+C:\Users\50455556857\source\repos\projetomecanicaapi\projetomecanicaapi\obj\Debug\net8.0\projetomecanicaapi.csproj.AssemblyReference.cache
+C:\Users\50455556857\source\repos\projetomecanicaapi\projetomecanicaapi\obj\Debug\net8.0\projetomecanicaapi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50455556857\source\repos\projetomecanicaapi\projetomecanicaapi\obj\Debug\net8.0\projetomecanicaapi.AssemblyInfoInputs.cache
+C:\Users\50455556857\source\repos\projetomecanicaapi\projetomecanicaapi\obj\Debug\net8.0\projetomecanicaapi.AssemblyInfo.cs
+C:\Users\50455556857\source\repos\projetomecanicaapi\projetomecanicaapi\obj\Debug\net8.0\projetomecanicaapi.csproj.CoreCompileInputs.cache
+C:\Users\50455556857\source\repos\projetomecanicaapi\projetomecanicaapi\obj\Debug\net8.0\projetomecanicaapi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\50455556857\source\repos\projetomecanicaapi\projetomecanicaapi\obj\Debug\net8.0\projetomecanicaapi.MvcApplicationPartsAssemblyInfo.cache
